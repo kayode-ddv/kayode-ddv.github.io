@@ -3,6 +3,7 @@
 # Site Settings
 title: My Resume
 url: 'http://webjeda.com'
+theme: midnight
 
 #change it according to your repository name
 # disabling since we are using a custom domain
